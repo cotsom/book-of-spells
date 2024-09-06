@@ -81,3 +81,4 @@
     * [Config Map](administration/kuber/kube-objects/config-map.md)
     * [Deployment](administration/kuber/kube-objects/deployment.md)
   * [Commands cheat sheet](administration/kuber/commands-cheat-sheet.md)
+  * [Helm](administration/kuber/helm.md)
