@@ -90,7 +90,7 @@ kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/main
 
 ### Ingress annotations cheat sheet
 
-```
+```yaml
 annotations:
     #choose your Ingress controller
     kubernetes.io/ingress.class: "nginx"
