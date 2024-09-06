@@ -86,6 +86,24 @@ spec:
 kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/main/deploy/static/provider/cloud/deploy.yaml
 ```
 
+
+
+### Ingress annotations cheat sheet
+
+```
+annotations:
+    #choose your Ingress controller
+    kubernetes.io/ingress.class: "nginx"
+    kubernetes.io/ingress.class: "traefik"
+    
+    #for certs with traefik
+    traefik.ingress.kubernetes.io/router.entrypoints: websecure
+    traefik.ingress.kubernetes.io/router.tls.certresolver: "le"
+    
+    #for rewrite url by "/" through nginx controller
+    nginx.ingress.kubernetes.io/rewrite-target: /
+```
+
 [^1]: example for private registry
 
 [^2]: Internal app port
