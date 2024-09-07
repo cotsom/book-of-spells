@@ -82,3 +82,4 @@
     * [Deployment](administration/kuber/kube-objects/deployment.md)
   * [Commands cheat sheet](administration/kuber/commands-cheat-sheet.md)
   * [Helm](administration/kuber/helm.md)
+  * [Node Selector](administration/kuber/node-selector.md)
