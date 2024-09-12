@@ -35,6 +35,7 @@
     * [Kuber](pentest/infra/cloud-and-linux/kuber.md)
     * [Artifactory](pentest/infra/cloud-and-linux/artifactory/README.md)
       * [Docker registry](pentest/infra/cloud-and-linux/artifactory/docker-registry.md)
+    * [ELK](pentest/infra/cloud-and-linux/elk.md)
 * [PERIMETER](pentest/perimeter/README.md)
   * [Checklist](pentest/perimeter/checklist.md)
   * [OWA](pentest/perimeter/owa.md)
