@@ -65,6 +65,7 @@
 
 ## 📜 ADMINISTRATION
 
+* [Docker](administration/docker.md)
 * [BashWars](administration/bashwars.md)
 * [Certs](administration/certs/README.md)
   * [Issue a certificate with certbot](administration/certs/issue-a-certificate-with-certbot.md)
