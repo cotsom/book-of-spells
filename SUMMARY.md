@@ -36,7 +36,7 @@
     * [Artifactory](pentest/infra/cloud-and-linux/artifactory/README.md)
       * [Docker registry](pentest/infra/cloud-and-linux/artifactory/docker-registry.md)
     * [ELK](pentest/infra/cloud-and-linux/elk.md)
-    * [Grafa](pentest/infra/cloud-and-linux/grafa.md)
+    * [Grafana](pentest/infra/cloud-and-linux/grafana.md)
 * [PERIMETER](pentest/perimeter/README.md)
   * [Checklist](pentest/perimeter/checklist.md)
   * [OWA](pentest/perimeter/owa.md)
