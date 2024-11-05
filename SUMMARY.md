@@ -32,6 +32,7 @@
     * [AD CS](pentest/infra/ad/ad-cs.md)
     * [LDAP](pentest/infra/ad/ldap.md)
   * [CLOUD & LINUX](pentest/infra/cloud-and-linux/README.md)
+    * [Kafka & Zookeeper](pentest/infra/cloud-and-linux/kafka-and-zookeeper.md)
     * [Kuber](pentest/infra/cloud-and-linux/kuber.md)
     * [Artifactory](pentest/infra/cloud-and-linux/artifactory/README.md)
       * [Docker registry](pentest/infra/cloud-and-linux/artifactory/docker-registry.md)
