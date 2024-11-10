@@ -69,6 +69,7 @@
 
 ## 📜 ADMINISTRATION
 
+* [Redis](administration/redis.md)
 * [Docker](administration/docker.md)
 * [BashWars](administration/bashwars.md)
 * [Certs](administration/certs/README.md)
