@@ -54,6 +54,7 @@
 ## 💀 RED TEAM
 
 * [AV / EDR Evasion](red-team/av-edr-evasion/README.md)
+  * [firewall](red-team/av-edr-evasion/firewall.md)
   * [.NET Execute Assembly](red-team/av-edr-evasion/.net-execute-assembly.md)
   * [Defender](red-team/av-edr-evasion/defender.md)
 * [Maldev](red-team/maldev/README.md)
