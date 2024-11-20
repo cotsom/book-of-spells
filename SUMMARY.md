@@ -50,6 +50,7 @@
   * [Windows](pentest/privesc/windows.md)
 * [PERSIST](pentest/persist/README.md)
   * [Windows](pentest/persist/windows.md)
+* [PIVOTING](pentest/pivoting.md)
 
 ## 💀 RED TEAM
 
