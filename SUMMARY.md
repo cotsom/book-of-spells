@@ -51,6 +51,7 @@
 * [PERSIST](pentest/persist/README.md)
   * [Windows](pentest/persist/windows.md)
 * [PIVOTING](pentest/pivoting.md)
+* [MOBILE](pentest/mobile.md)
 
 ## 💀 RED TEAM
 
