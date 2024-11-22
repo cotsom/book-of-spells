@@ -46,6 +46,7 @@
   * [OWA](pentest/perimeter/owa.md)
 * [WEB](pentest/web/README.md)
   * [Word Press](pentest/web/word-press.md)
+  * [Jira](pentest/web/jira.md)
 * [PRIVESC](pentest/privesc/README.md)
   * [Windows](pentest/privesc/windows.md)
 * [PERSIST](pentest/persist/README.md)
