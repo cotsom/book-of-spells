@@ -47,6 +47,7 @@
 * [WEB](pentest/web/README.md)
   * [Word Press](pentest/web/word-press.md)
   * [Jira](pentest/web/jira.md)
+  * [Confluence](pentest/web/confluence.md)
 * [PRIVESC](pentest/privesc/README.md)
   * [Windows](pentest/privesc/windows.md)
 * [PERSIST](pentest/persist/README.md)
