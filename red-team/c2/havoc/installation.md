@@ -17,7 +17,9 @@ _After following the steps above we need to install the needed dependecies for t
 > You must enable Python 3.10 in your APT repositories before you can run the Client successfully.
 
 ```bash
-sudo add-apt-repository ppa:deadsnakes/ppasudo apt updatesudo apt install python3.10 python3.10-dev
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt update
+sudo apt install python3.10 python3.10-dev
 ```
 
 **Kali and other Debian based Distros only.**
