@@ -59,6 +59,7 @@
 ## 💀 RED TEAM
 
 * [AV / EDR Evasion](red-team/av-edr-evasion/README.md)
+  * [Generate shellcode from Go bins](red-team/av-edr-evasion/generate-shellcode-from-go-bins.md)
   * [firewall](red-team/av-edr-evasion/firewall.md)
   * [.NET Execute Assembly](red-team/av-edr-evasion/.net-execute-assembly.md)
   * [Defender](red-team/av-edr-evasion/defender.md)
