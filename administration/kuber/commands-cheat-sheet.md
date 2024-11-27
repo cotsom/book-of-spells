@@ -23,3 +23,9 @@ kubectl taint nodes node1 key1=value1:NoSchedule
 ```bash
 kubectl taint nodes node1 key1=value1:NoSchedule-
 ```
+
+### Set editor for kubectl
+
+```bash
+export KUBE_EDITOR="nano"
+```
