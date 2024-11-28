@@ -31,6 +31,7 @@
       * [Laps](pentest/infra/ad/credentials/laps.md)
     * [AD CS](pentest/infra/ad/ad-cs.md)
     * [LDAP](pentest/infra/ad/ldap.md)
+    * [SCCM](pentest/infra/ad/sccm.md)
   * [CLOUD & LINUX](pentest/infra/cloud-and-linux/README.md)
     * [Redis](pentest/infra/cloud-and-linux/redis.md)
     * [Docker Escape](pentest/infra/cloud-and-linux/docker-escape.md)
@@ -53,6 +54,7 @@
   * [Windows](pentest/privesc/windows.md)
 * [PERSIST](pentest/persist/README.md)
   * [Windows](pentest/persist/windows.md)
+  * [Linux](pentest/persist/linux.md)
 * [PIVOTING](pentest/pivoting.md)
 * [MOBILE](pentest/mobile.md)
 
