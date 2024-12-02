@@ -100,3 +100,4 @@
   * [Commands cheat sheet](administration/kuber/commands-cheat-sheet.md)
   * [Helm](administration/kuber/helm.md)
   * [Node Selector](administration/kuber/node-selector.md)
+* [Mongo](administration/mongo.md)
