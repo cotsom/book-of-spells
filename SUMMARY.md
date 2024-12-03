@@ -101,3 +101,5 @@
   * [Helm](administration/kuber/helm.md)
   * [Node Selector](administration/kuber/node-selector.md)
 * [Mongo](administration/mongo.md)
+* [CTFd](administration/ctfd/README.md)
+  * [SMTP](administration/ctfd/smtp.md)
