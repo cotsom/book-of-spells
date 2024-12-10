@@ -62,9 +62,10 @@
 
 * [AV / EDR Evasion](red-team/av-edr-evasion/README.md)
   * [Generate shellcode from Go bins](red-team/av-edr-evasion/generate-shellcode-from-go-bins.md)
-  * [firewall](red-team/av-edr-evasion/firewall.md)
+  * [Firewall](red-team/av-edr-evasion/firewall.md)
   * [.NET Execute Assembly](red-team/av-edr-evasion/.net-execute-assembly.md)
   * [Defender](red-team/av-edr-evasion/defender.md)
+  * [VMProtect + Res spoof](red-team/av-edr-evasion/vmprotect-+-res-spoof.md)
 * [Maldev](red-team/maldev/README.md)
   * [Droppers](red-team/maldev/droppers/README.md)
     * [Library-ms & lnk](red-team/maldev/droppers/library-ms-and-lnk.md)
