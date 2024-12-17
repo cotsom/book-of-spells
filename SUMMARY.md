@@ -14,6 +14,7 @@
     * [Bloodhound](pentest/infra/ad/bloodhound.md)
     * [ACL](pentest/infra/ad/acl.md)
     * [DELEGATIONS](pentest/infra/ad/delegations/README.md)
+      * [Resource-based Constrained](pentest/infra/ad/delegations/resource-based-constrained.md)
       * [S4U2Self & S4U2Proxy](pentest/infra/ad/delegations/s4u2self-and-s4u2proxy.md)
       * [S4U2Proxy](pentest/infra/ad/delegations/s4u2proxy.md)
       * [Unconstrained delegation](pentest/infra/ad/delegations/unconstrained-delegation.md)
