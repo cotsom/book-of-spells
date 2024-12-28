@@ -82,3 +82,10 @@ Port: 40056
 Username: Neo
 Password: password1234
 ```
+
+### Troubleshooting
+
+```bash
+rm /tmp/mingw-musl-*
+make ts-build
+```
