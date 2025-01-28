@@ -44,6 +44,7 @@
     * [ELK](pentest/infra/cloud-and-linux/elk.md)
     * [Grafana](pentest/infra/cloud-and-linux/grafana.md)
     * [Jenkins](pentest/infra/cloud-and-linux/jenkins.md)
+    * [Gitea](pentest/infra/cloud-and-linux/gitea.md)
 * [PERIMETER](pentest/perimeter/README.md)
   * [Checklist](pentest/perimeter/checklist.md)
   * [OWA](pentest/perimeter/owa.md)
