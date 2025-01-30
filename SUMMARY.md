@@ -34,6 +34,7 @@
     * [LDAP](pentest/infra/ad/ldap.md)
     * [SCCM](pentest/infra/ad/sccm.md)
   * [CLOUD & LINUX](pentest/infra/cloud-and-linux/README.md)
+    * [Elasticsearch](pentest/infra/cloud-and-linux/elasticsearch.md)
     * [Redis](pentest/infra/cloud-and-linux/redis.md)
     * [Docker Escape](pentest/infra/cloud-and-linux/docker-escape.md)
     * [Gitlab](pentest/infra/cloud-and-linux/gitlab.md)
