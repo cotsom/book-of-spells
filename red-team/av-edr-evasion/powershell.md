@@ -1,5 +1,11 @@
 # Powershell
 
+### Obfuscate scripts
+
+[**SecureSting**](https://www.wietzebeukema.nl/blog/powershell-obfuscation-using-securestring)
+
+[**ObfuctationBible**](https://github.com/t3l3machus/PowerShell-Obfuscation-Bible)
+
 ### Check groups & SID with WMI
 
 ```powershell
