@@ -47,6 +47,7 @@
     * [Jenkins](pentest/infra/cloud-and-linux/jenkins.md)
     * [Gitea](pentest/infra/cloud-and-linux/gitea.md)
 * [PERIMETER](pentest/perimeter/README.md)
+  * [Skype](pentest/perimeter/skype.md)
   * [Checklist](pentest/perimeter/checklist.md)
   * [OWA](pentest/perimeter/owa.md)
 * [WEB](pentest/web/README.md)
