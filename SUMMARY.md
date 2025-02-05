@@ -46,6 +46,7 @@
     * [Grafana](pentest/infra/cloud-and-linux/grafana.md)
     * [Jenkins](pentest/infra/cloud-and-linux/jenkins.md)
     * [Gitea](pentest/infra/cloud-and-linux/gitea.md)
+  * [1С Enterpise](pentest/infra/1s-enterpise.md)
 * [PERIMETER](pentest/perimeter/README.md)
   * [Skype](pentest/perimeter/skype.md)
   * [Checklist](pentest/perimeter/checklist.md)
