@@ -33,6 +33,7 @@
     * [AD CS](pentest/infra/ad/ad-cs.md)
     * [LDAP](pentest/infra/ad/ldap.md)
     * [SCCM](pentest/infra/ad/sccm.md)
+    * [TRUSTS](pentest/infra/ad/trusts.md)
   * [CLOUD & LINUX](pentest/infra/cloud-and-linux/README.md)
     * [Elasticsearch](pentest/infra/cloud-and-linux/elasticsearch.md)
     * [Redis](pentest/infra/cloud-and-linux/redis.md)
