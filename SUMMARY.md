@@ -98,6 +98,7 @@
 * [MONITORING](administration/monitoring/README.md)
   * [Grafana-Prometheus](administration/monitoring/grafana-prometheus.md)
 * [KUBER](administration/kuber/README.md)
+  * [k8s](administration/kuber/k8s.md)
   * [Taints and Tolerations](administration/kuber/taints-and-tolerations.md)
   * [k3s](administration/kuber/k3s.md)
   * [Deployment-Service-Ingress Example](administration/kuber/deployment-service-ingress-example.md)
