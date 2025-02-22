@@ -6,6 +6,14 @@
 
 [**ObfuctationBible**](https://github.com/t3l3machus/PowerShell-Obfuscation-Bible)
 
+### Constrained Language Mode Bypass
+
+Research [Source](https://pentestn00b.wordpress.com/2017/03/20/simple-bypass-for-powershell-constrained-language-mode/)&#x20;
+
+```powershell
+powershell.exe -version 2
+```
+
 ### Check groups & SID with WMI
 
 ```powershell
