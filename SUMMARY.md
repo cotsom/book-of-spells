@@ -35,6 +35,7 @@
     * [SCCM](pentest/infra/ad/sccm.md)
     * [TRUSTS](pentest/infra/ad/trusts.md)
   * [CLOUD & LINUX](pentest/infra/cloud-and-linux/README.md)
+    * [Apache Hadoop](pentest/infra/cloud-and-linux/apache-hadoop.md)
     * [Elasticsearch](pentest/infra/cloud-and-linux/elasticsearch.md)
     * [Redis](pentest/infra/cloud-and-linux/redis.md)
     * [Docker Escape](pentest/infra/cloud-and-linux/docker-escape.md)
