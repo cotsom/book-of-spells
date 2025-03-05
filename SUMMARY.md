@@ -36,6 +36,7 @@
     * [TRUSTS](pentest/infra/ad/trusts.md)
   * [CLOUD & LINUX](pentest/infra/cloud-and-linux/README.md)
     * [Apache Hadoop](pentest/infra/cloud-and-linux/apache-hadoop/README.md)
+      * [Delegation tokens](pentest/infra/cloud-and-linux/apache-hadoop/delegation-tokens.md)
       * [Hive2](pentest/infra/cloud-and-linux/apache-hadoop/hive2.md)
     * [Elasticsearch](pentest/infra/cloud-and-linux/elasticsearch.md)
     * [Redis](pentest/infra/cloud-and-linux/redis.md)
