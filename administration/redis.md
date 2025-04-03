@@ -22,3 +22,43 @@
 | HGET     | Gets the value of a field in a hash stored at key                                   | `HGET key field`                              |
 | HDEL     | Deletes one or more fields from a hash stored at key                                | `HDEL key field [field ...]`                  |
 | HMSET    | Sets multiple fields in a hash stored at key (Use `HSET` for Redis 4.0.0 and above) | `HMSET key field1 value1 [field2 value2 ...]` |
+
+### Show DBs
+
+You can use the following command to know the number of databases:
+
+```
+CONFIG GET databases
+1) "databases"
+2) "16"
+```
+
+You can use the following command to list the databases for which some keys are defined:
+
+```
+INFO keyspace
+# Keyspace
+db0:keys=10,expires=0
+db1:keys=1,expires=0
+db3:keys=1,expires=0
+```
+
+### Select DB
+
+Launch the CLI by issuing command:
+
+```
+redis-cli
+```
+
+Then use the following command:
+
+```
+select <db number>
+```
+
+For example:
+
+```
+select 4
+```
