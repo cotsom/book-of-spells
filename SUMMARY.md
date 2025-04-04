@@ -55,6 +55,8 @@
     * [Gitea](pentest/infra/cloud-and-linux/gitea.md)
     * [Harbor](pentest/infra/cloud-and-linux/harbor.md)
   * [1С Enterpise](pentest/infra/1s-enterpise.md)
+  * [FreeIpa](pentest/infra/freeipa/README.md)
+    * [Kerberoasting](pentest/infra/freeipa/kerberoasting.md)
 * [PERIMETER](pentest/perimeter/README.md)
   * [Skype](pentest/perimeter/skype.md)
   * [Checklist](pentest/perimeter/checklist.md)
