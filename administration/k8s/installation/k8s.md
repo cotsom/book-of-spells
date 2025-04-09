@@ -25,6 +25,23 @@ kube_network_plugin: cilium
 
 Configure `inventory/mycluster/inventory.ini`&#x20;
 
+```ini
+[kube_control_plane]
+master1 ansible_host=10.20.10.177  ip=10.20.10.177 ansible_user=root
+
+[etcd:children]
+kube_control_plane
+
+[kube_node]
+worker5 ansible_host=10.20.20.21   ip=10.20.20.21 ansible_user=root
+worker3 ansible_host=10.20.20.22   ip=10.20.20.22 ansible_user=root
+worker4 ansible_host=10.20.20.23   ip=10.20.20.23 ansible_user=root
+
+[all:vars]
+
+ansible_ssh_private_key_file=~/.ssh/id_rsa
+```
+
 And run playbook
 
 ```bash
