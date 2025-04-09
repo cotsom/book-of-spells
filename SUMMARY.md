@@ -46,7 +46,7 @@
     * [Docker Escape](pentest/infra/cloud-and-linux/docker-escape.md)
     * [Gitlab](pentest/infra/cloud-and-linux/gitlab.md)
     * [Kafka & Zookeeper](pentest/infra/cloud-and-linux/kafka-and-zookeeper.md)
-    * [Kuber](pentest/infra/cloud-and-linux/kuber.md)
+    * [K8S](pentest/infra/cloud-and-linux/k8s.md)
     * [Artifactory](pentest/infra/cloud-and-linux/artifactory/README.md)
       * [Docker registry](pentest/infra/cloud-and-linux/artifactory/docker-registry.md)
     * [ELK](pentest/infra/cloud-and-linux/elk.md)
