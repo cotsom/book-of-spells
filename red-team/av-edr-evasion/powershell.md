@@ -35,3 +35,15 @@ $currentUser.Groups | ForEach-Object {
 # output groups list
 $privileges | Format-Table
 ```
+
+
+
+## System enumirate
+
+### check whoami + domain
+
+in cmd:
+
+Type "**echo %USERDOMAIN%**" and press Enter. This will display your **domain name**.
+
+Type "**echo %USERNAME%**" and press Enter. This will display your **username**.
