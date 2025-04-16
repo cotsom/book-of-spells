@@ -109,6 +109,8 @@
 * [MONITORING](administration/monitoring/README.md)
   * [Grafana-Prometheus](administration/monitoring/grafana-prometheus.md)
 * [K8S](administration/k8s/README.md)
+  * [Service Mesh](administration/k8s/service-mesh/README.md)
+    * [istio](administration/k8s/service-mesh/istio.md)
   * [longhorn](administration/k8s/longhorn.md)
   * [Installation](administration/k8s/installation/README.md)
     * [kind](administration/k8s/installation/kind.md)
