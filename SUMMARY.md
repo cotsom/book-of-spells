@@ -99,6 +99,8 @@
 
 ## 📜 ADMINISTRATION
 
+* [Linux](administration/linux/README.md)
+  * [eBPF](administration/linux/ebpf.md)
 * [Gitlab](administration/gitlab.md)
 * [Redis](administration/redis.md)
 * [Docker](administration/docker.md)
