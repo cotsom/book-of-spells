@@ -16,3 +16,6 @@ You can create the `vmlinux.h` file using the `bpftool`, which is a necessary ut
 bpftool btf dump file /sys/kernel/btf/vmlinux format c > vmlinux.h
 ```
 
+## tracepoint vs kprobe
+
+To hook into  syscall, we need to identify the eBPF hook point. This can be done using a tracepoint (i.e. a predefined event directly in the kernel), or a _kprobe_ (a specific kernel function).
