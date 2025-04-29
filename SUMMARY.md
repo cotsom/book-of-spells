@@ -68,6 +68,7 @@
   * [Confluence](pentest/web/confluence.md)
   * [Java](pentest/web/java.md)
   * [PHP](pentest/web/php.md)
+  * [Vue, React, Next...](pentest/web/vue-react-next....md)
 * [PRIVESC](pentest/privesc/README.md)
   * [Windows](pentest/privesc/windows.md)
 * [PERSIST](pentest/persist/README.md)
