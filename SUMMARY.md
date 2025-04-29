@@ -61,7 +61,7 @@
 * [PERIMETER](pentest/perimeter/README.md)
   * [Skype](pentest/perimeter/skype.md)
   * [Checklist](pentest/perimeter/checklist.md)
-  * [OWA](pentest/perimeter/owa.md)
+  * [MS Exchange](pentest/perimeter/ms-exchange.md)
 * [WEB](pentest/web/README.md)
   * [Word Press](pentest/web/word-press.md)
   * [Jira](pentest/web/jira.md)
