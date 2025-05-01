@@ -11,3 +11,10 @@ Get info about av excludes without rights
 ```powershell
 Get-WinEvent -LogName "Microsoft-Windows-Windows Defender/Operational" -FilterXPath "*[System[(EventID=5007)]]" | Where-Object { $_.Message -like  "*exclusions\Path*" } | Select-Object  Message | FL
 ```
+
+## Links
+
+{% embed url="https://pre.empt.blog/2023/" %}
+
+[https://blog.injectexp.dev/\
+](https://blog.injectexp.dev/)
