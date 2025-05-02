@@ -86,6 +86,7 @@
   * [.NET Execute Assembly](red-team/av-edr-evasion/.net-execute-assembly.md)
   * [Defender](red-team/av-edr-evasion/defender.md)
   * [VMProtect + Res spoof](red-team/av-edr-evasion/vmprotect-+-res-spoof.md)
+  * [EDR bypass](red-team/av-edr-evasion/edr-bypass.md)
 * [Maldev](red-team/maldev/README.md)
   * [Droppers](red-team/maldev/droppers/README.md)
     * [Library-ms & lnk](red-team/maldev/droppers/library-ms-and-lnk.md)
