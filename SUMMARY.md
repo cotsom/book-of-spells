@@ -65,6 +65,7 @@
   * [MS Exchange](pentest/perimeter/ms-exchange.md)
   * [Nextcloud](pentest/perimeter/nextcloud.md)
   * [SMTP](pentest/perimeter/smtp.md)
+  * [ADFS](pentest/perimeter/adfs.md)
 * [WEB](pentest/web/README.md)
   * [Word Press](pentest/web/word-press.md)
   * [Jira](pentest/web/jira.md)
