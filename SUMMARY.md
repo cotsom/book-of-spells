@@ -34,6 +34,7 @@
     * [LDAP](pentest/infra/ad/ldap.md)
     * [SCCM](pentest/infra/ad/sccm.md)
     * [TRUSTS](pentest/infra/ad/trusts.md)
+    * [WINRM](pentest/infra/ad/winrm.md)
   * [CLOUD & LINUX](pentest/infra/cloud-and-linux/README.md)
     * [Metrics/Exporters](pentest/infra/cloud-and-linux/metrics-exporters.md)
     * [Apache Hadoop](pentest/infra/cloud-and-linux/apache-hadoop/README.md)
