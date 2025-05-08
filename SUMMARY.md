@@ -114,6 +114,8 @@
 * [Docker](administration/docker.md)
 * [BashWars](administration/bashwars/README.md)
   * [Tips](administration/bashwars/tips.md)
+* [Postgres](administration/postgres/README.md)
+  * [Patroni](administration/postgres/patroni.md)
 * [Certs](administration/certs/README.md)
   * [Issue a certificate with certbot](administration/certs/issue-a-certificate-with-certbot.md)
 * [Networks](administration/networks/README.md)
