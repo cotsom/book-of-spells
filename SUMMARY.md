@@ -39,6 +39,7 @@
     * [Patroni](pentest/infra/cloud-and-linux/patroni.md)
     * [Metrics/Exporters](pentest/infra/cloud-and-linux/metrics-exporters.md)
     * [Apache Hadoop](pentest/infra/cloud-and-linux/apache-hadoop/README.md)
+      * [Spark](pentest/infra/cloud-and-linux/apache-hadoop/spark.md)
       * [Hdfs](pentest/infra/cloud-and-linux/apache-hadoop/hdfs.md)
       * [Trino](pentest/infra/cloud-and-linux/apache-hadoop/trino.md)
       * [Zookeeper](pentest/infra/cloud-and-linux/apache-hadoop/zookeeper.md)
