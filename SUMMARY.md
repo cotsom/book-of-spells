@@ -36,6 +36,7 @@
     * [TRUSTS](pentest/infra/ad/trusts.md)
     * [WINRM](pentest/infra/ad/winrm.md)
   * [CLOUD & LINUX](pentest/infra/cloud-and-linux/README.md)
+    * [Etcd](pentest/infra/cloud-and-linux/etcd.md)
     * [Patroni](pentest/infra/cloud-and-linux/patroni.md)
     * [Metrics/Exporters](pentest/infra/cloud-and-linux/metrics-exporters.md)
     * [Apache Hadoop](pentest/infra/cloud-and-linux/apache-hadoop/README.md)
