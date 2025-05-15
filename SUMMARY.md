@@ -70,6 +70,7 @@
   * [SMTP](pentest/perimeter/smtp.md)
   * [ADFS](pentest/perimeter/adfs.md)
 * [WEB](pentest/web/README.md)
+  * [Bitrix](pentest/web/bitrix.md)
   * [Word Press](pentest/web/word-press.md)
   * [Jira](pentest/web/jira.md)
   * [Confluence](pentest/web/confluence.md)
