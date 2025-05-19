@@ -97,6 +97,7 @@
   * [VMProtect + Res spoof](red-team/av-edr-evasion/vmprotect-+-res-spoof.md)
   * [EDR bypass](red-team/av-edr-evasion/edr-bypass.md)
   * [AMSI](red-team/av-edr-evasion/amsi.md)
+  * [Logs](red-team/av-edr-evasion/logs.md)
 * [Maldev](red-team/maldev/README.md)
   * [Droppers](red-team/maldev/droppers/README.md)
     * [Library-ms & lnk](red-team/maldev/droppers/library-ms-and-lnk.md)
