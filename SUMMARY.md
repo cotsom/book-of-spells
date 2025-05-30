@@ -113,6 +113,7 @@
 
 ## 📜 ADMINISTRATION
 
+* [Powershell](administration/powershell.md)
 * [Linux](administration/linux/README.md)
   * [eBPF](administration/linux/ebpf.md)
 * [Gitlab](administration/gitlab.md)
@@ -151,4 +152,3 @@
 * [Mongo](administration/mongo.md)
 * [CTFd](administration/ctfd/README.md)
   * [SMTP](administration/ctfd/smtp.md)
-* [Powershell](administration/powershell.md)
