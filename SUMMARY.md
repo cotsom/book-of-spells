@@ -151,3 +151,4 @@
 * [Mongo](administration/mongo.md)
 * [CTFd](administration/ctfd/README.md)
   * [SMTP](administration/ctfd/smtp.md)
+* [Powershell](administration/powershell.md)
