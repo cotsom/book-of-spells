@@ -149,6 +149,7 @@
   * [Commands cheat sheet](administration/kuber/commands-cheat-sheet.md)
   * [Helm](administration/kuber/helm.md)
   * [Node Selector](administration/kuber/node-selector.md)
+  * [CertManager](administration/kuber/certmanager.md)
 * [Mongo](administration/mongo.md)
 * [CTFd](administration/ctfd/README.md)
   * [SMTP](administration/ctfd/smtp.md)
