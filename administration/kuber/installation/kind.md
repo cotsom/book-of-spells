@@ -15,3 +15,5 @@ kind create cluster
 #delete cluster
 kind delete cluster
 ```
+
+{% embed url="https://iximiuz.com/en/posts/kubernetes-kind-load-docker-image/" %}
