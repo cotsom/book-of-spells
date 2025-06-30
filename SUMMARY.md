@@ -131,6 +131,8 @@
 * [MONITORING](administration/monitoring/README.md)
   * [Grafana-Prometheus](administration/monitoring/grafana-prometheus.md)
 * [KUBER](administration/kuber/README.md)
+  * [GitOps](administration/kuber/gitops/README.md)
+    * [Flux](administration/kuber/gitops/flux.md)
   * [RBAC](administration/kuber/rbac.md)
   * [Service Mesh](administration/kuber/service-mesh/README.md)
     * [istio](administration/kuber/service-mesh/istio.md)
