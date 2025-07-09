@@ -71,6 +71,7 @@
   * [SMTP](pentest/perimeter/smtp.md)
   * [ADFS](pentest/perimeter/adfs.md)
 * [WEB](pentest/web/README.md)
+  * [SQLi](pentest/web/sqli.md)
   * [Graphql](pentest/web/graphql.md)
   * [Bitrix](pentest/web/bitrix.md)
   * [Word Press](pentest/web/word-press.md)
