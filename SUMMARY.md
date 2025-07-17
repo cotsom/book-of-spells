@@ -160,3 +160,7 @@
   * [CertManager](administration/kuber/certmanager.md)
 * [CTFd](administration/ctfd/README.md)
   * [SMTP](administration/ctfd/smtp.md)
+
+## web3
+
+* [Ganache](web3/ganache.md)
