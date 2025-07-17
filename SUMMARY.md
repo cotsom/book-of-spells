@@ -164,3 +164,4 @@
 ## web3
 
 * [Ganache](web3/ganache.md)
+* [Block chain viewer](web3/block-chain-viewer.md)
