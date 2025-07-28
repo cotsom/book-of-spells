@@ -136,6 +136,7 @@
 * [Networks](administration/networks/README.md)
   * [Switch setup](administration/networks/switch-setup.md)
 * [MONITORING](administration/monitoring/README.md)
+  * [PromQL](administration/monitoring/promql.md)
   * [Grafana-Prometheus](administration/monitoring/grafana-prometheus.md)
 * [KUBER](administration/kuber/README.md)
   * [GitOps](administration/kuber/gitops/README.md)
