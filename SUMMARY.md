@@ -84,6 +84,7 @@
   * [PHP](pentest/web/php.md)
   * [Vue, React, Next...](pentest/web/vue-react-next....md)
   * [Python](pentest/web/python.md)
+  * [Perl](pentest/web/perl.md)
 * [PRIVESC](pentest/privesc/README.md)
   * [Windows](pentest/privesc/windows.md)
 * [PERSIST](pentest/persist/README.md)
