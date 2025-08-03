@@ -167,6 +167,7 @@
 
 ## web3
 
+* [Solidity](web3/solidity.md)
 * [Smart contracts vulnerabilities](web3/smart-contracts-vulnerabilities.md)
 * [Ganache](web3/ganache.md)
 * [Block chain viewer](web3/block-chain-viewer.md)
