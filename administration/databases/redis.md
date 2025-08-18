@@ -43,6 +43,12 @@ db1:keys=1,expires=0
 db3:keys=1,expires=0
 ```
 
+### Check all databases
+
+```
+info keyspace
+```
+
 ### Select DB
 
 Launch the CLI by issuing command:
