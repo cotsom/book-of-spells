@@ -73,6 +73,7 @@
   * [Nextcloud](pentest/perimeter/nextcloud.md)
   * [SMTP](pentest/perimeter/smtp.md)
   * [ADFS](pentest/perimeter/adfs.md)
+  * [Network scan](pentest/perimeter/network-scan.md)
 * [WEB](pentest/web/README.md)
   * [SQLi](pentest/web/sqli.md)
   * [Graphql](pentest/web/graphql.md)
