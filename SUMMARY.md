@@ -36,6 +36,7 @@
     * [TRUSTS](pentest/infra/ad/trusts.md)
     * [WINRM](pentest/infra/ad/winrm.md)
   * [CLOUD & LINUX](pentest/infra/cloud-and-linux/README.md)
+    * [Prometheus](pentest/infra/cloud-and-linux/prometheus.md)
     * [Flagger](pentest/infra/cloud-and-linux/flagger.md)
     * [Nats](pentest/infra/cloud-and-linux/nats.md)
     * [Vector](pentest/infra/cloud-and-linux/vector.md)
