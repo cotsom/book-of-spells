@@ -89,6 +89,7 @@
   * [Perl](pentest/web/perl.md)
   * [Whitebox](pentest/web/whitebox.md)
 * [PRIVESC](pentest/privesc/README.md)
+  * [Linux](pentest/privesc/linux.md)
   * [Windows](pentest/privesc/windows.md)
 * [PERSIST](pentest/persist/README.md)
   * [Windows](pentest/persist/windows.md)
