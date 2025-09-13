@@ -32,6 +32,7 @@
       * [LSASS](pentest/infra/ad/credentials/lsass.md)
       * [LSA](pentest/infra/ad/credentials/lsa.md)
       * [Laps](pentest/infra/ad/credentials/laps.md)
+      * [Browser secrets](pentest/infra/ad/credentials/browser-secrets.md)
     * [AD CS](pentest/infra/ad/ad-cs.md)
     * [LDAP](pentest/infra/ad/ldap.md)
     * [SCCM](pentest/infra/ad/sccm.md)
