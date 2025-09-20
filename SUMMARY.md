@@ -70,6 +70,7 @@
     * [Gitea](pentest/infra/cloud-and-linux/gitea.md)
   * [1С Enterpise](pentest/infra/1s-enterpise.md)
   * [FreeIpa](pentest/infra/freeipa/README.md)
+    * [IPASync](pentest/infra/freeipa/ipasync.md)
     * [Kerberoasting](pentest/infra/freeipa/kerberoasting.md)
 * [PERIMETER](pentest/perimeter/README.md)
   * [Skype](pentest/perimeter/skype.md)
