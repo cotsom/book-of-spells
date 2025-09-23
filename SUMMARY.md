@@ -128,6 +128,7 @@
 
 ## 📜 ADMINISTRATION
 
+* [Kafka](administration/kafka.md)
 * [Powershell](administration/powershell.md)
 * [DATABASES](administration/databases/README.md)
   * [Redis](administration/databases/redis.md)
