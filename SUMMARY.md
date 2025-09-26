@@ -127,6 +127,7 @@
   * [Mythic](red-team/c2/mythic.md)
 * [Living of the land](red-team/living-of-the-land/README.md)
   * [Perl oneliners](red-team/living-of-the-land/perl-oneliners.md)
+  * [Transport Services](red-team/living-of-the-land/transport-services.md)
 
 ## 📜 ADMINISTRATION
 
