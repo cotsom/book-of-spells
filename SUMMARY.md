@@ -38,6 +38,7 @@
     * [SCCM](pentest/infra/ad/sccm.md)
     * [TRUSTS](pentest/infra/ad/trusts.md)
     * [WINRM](pentest/infra/ad/winrm.md)
+    * [SMB](pentest/infra/ad/smb.md)
   * [CLOUD & LINUX](pentest/infra/cloud-and-linux/README.md)
     * [SeaweedFS](pentest/infra/cloud-and-linux/seaweedfs.md)
     * [Prometheus](pentest/infra/cloud-and-linux/prometheus.md)
