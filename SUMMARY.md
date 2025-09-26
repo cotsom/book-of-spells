@@ -125,6 +125,8 @@
     * [Agent dev](red-team/c2/havoc/agent-dev.md)
   * [Cobalt Strike](red-team/c2/cobalt-strike.md)
   * [Mythic](red-team/c2/mythic.md)
+* [Living of the land](red-team/living-of-the-land/README.md)
+  * [Perl oneliners](red-team/living-of-the-land/perl-oneliners.md)
 
 ## 📜 ADMINISTRATION
 
