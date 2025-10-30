@@ -11,6 +11,7 @@
   * [NETWORKS](pentest/infra/networks/README.md)
     * [Arp spoofing](pentest/infra/networks/arp-spoofing.md)
   * [AD](pentest/infra/ad/README.md)
+    * [Unpack the hash](pentest/infra/ad/unpack-the-hash.md)
     * [NTLM](pentest/infra/ad/ntlm.md)
     * [Collectors](pentest/infra/ad/collectors/README.md)
       * [Rusthound](pentest/infra/ad/collectors/rusthound.md)
