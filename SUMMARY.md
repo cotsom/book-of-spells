@@ -69,6 +69,7 @@
     * [Artifactory](pentest/infra/cloud-and-linux/artifactory/README.md)
       * [Docker registry](pentest/infra/cloud-and-linux/artifactory/docker-registry.md)
       * [Harbor](pentest/infra/cloud-and-linux/artifactory/harbor.md)
+      * [Nexus](pentest/infra/cloud-and-linux/artifactory/nexus.md)
     * [ELK](pentest/infra/cloud-and-linux/elk.md)
     * [Grafana](pentest/infra/cloud-and-linux/grafana.md)
     * [Jenkins](pentest/infra/cloud-and-linux/jenkins.md)
