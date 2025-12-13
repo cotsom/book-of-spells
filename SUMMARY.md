@@ -42,6 +42,7 @@
     * [WINRM](pentest/infra/ad/winrm.md)
     * [SMB](pentest/infra/ad/smb.md)
   * [CLOUD & LINUX](pentest/infra/cloud-and-linux/README.md)
+    * [Saltstack](pentest/infra/cloud-and-linux/saltstack.md)
     * [AWS](pentest/infra/cloud-and-linux/aws.md)
     * [Consul](pentest/infra/cloud-and-linux/consul.md)
     * [Openstack](pentest/infra/cloud-and-linux/openstack.md)
