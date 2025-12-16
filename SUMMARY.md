@@ -185,6 +185,7 @@
   * [CertManager](administration/kuber/certmanager.md)
 * [CTFd](administration/ctfd/README.md)
   * [SMTP](administration/ctfd/smtp.md)
+* [Windows](administration/windows.md)
 
 ## web3
 
