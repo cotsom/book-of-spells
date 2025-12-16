@@ -74,6 +74,7 @@
     * [Grafana](pentest/infra/linux/grafana.md)
     * [Jenkins](pentest/infra/linux/jenkins.md)
     * [Gitea](pentest/infra/linux/gitea.md)
+    * [ClearML](pentest/infra/linux/clearml.md)
   * [CLOUD](pentest/infra/cloud/README.md)
     * [Selectel](pentest/infra/cloud/selectel.md)
     * [AWS](pentest/infra/cloud/aws.md)
