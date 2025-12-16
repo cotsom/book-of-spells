@@ -12,8 +12,7 @@ description: Works only for not .NET binary
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-Теперь  открываем vmp. **Add func - Entry Point,** ставим **Mutation** в Compilation Type. В **options** делаем так\
-
+Теперь  открываем vmp. **Add func - Entry Point,** ставим **Mutation** в Compilation Type. В **options** делаем так<br>
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
