@@ -80,6 +80,7 @@
     * [AWS](pentest/infra/cloud/aws.md)
     * [Openstack](pentest/infra/cloud/openstack.md)
     * [Yandex Cloud](pentest/infra/cloud/yandex-cloud.md)
+    * [Terraform](pentest/infra/cloud/terraform.md)
   * [1С Enterpise](pentest/infra/1s-enterpise.md)
   * [FreeIpa](pentest/infra/freeipa/README.md)
     * [IPASync](pentest/infra/freeipa/ipasync.md)
