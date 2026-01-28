@@ -8,6 +8,8 @@
   * [PSK](pentest/wi-fi/psk.md)
   * [Enterprise](pentest/wi-fi/enterprise.md)
 * [INFRA](pentest/infra/README.md)
+  * [LATMOV](pentest/infra/latmov/README.md)
+    * [Windows](pentest/infra/latmov/windows.md)
   * [NETWORKS](pentest/infra/networks/README.md)
     * [Arp spoofing](pentest/infra/networks/arp-spoofing.md)
   * [AD](pentest/infra/ad/README.md)
