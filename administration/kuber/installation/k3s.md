@@ -48,3 +48,22 @@ kubectl create secret docker-registry myregistrykey \
   --docker-email=myemail@example.com
 
 ```
+
+### Timeweb cloudinit
+
+```bash
+#!/bin/sh
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8uPBswMKapwEO4LloeDj6egpQ2HXXnUsmiT+nUPlp0PAqRiMK0djZYMPsw3fbMcgJ2PYuD0Sk0N7+WSE3pA7zbvxetnAZoeJWWiRLr3NQHIk0AgQaLBvXc/bblpCjAEYoZbOuIrXogOI3k8fxah6o9Yze05dyCIUEAHM6s4NVd3vNKp9K7dyzVVZBkUx0BnAk7kb5Cq/Q1LeflvyptFUJgowcnmuGuuqtZXxkmkEA9wRZ5O4oB43jPhPOmlXyFQxJDfedHNqC3udmzYwx5n/eMjdh+PEoUztdyfnj7w35vGS9jrfH7cTJOf4couKbeMhxi6FcGUg7c9XEHgmGbXCH s4ar\s4ar@S4ar" > /root/.ssh/authorized_keys
+
+curl https://get.docker.com | sh
+curl -sfL https://get.k3s.io | sh -
+
+echo bWlycm9yczoKICByZWdpc3RyeS0xLmRvY2tlci5pbzoKICAgIGVuZHBvaW50OgogICAgICAtICJodHRwczovL2NyLnlhbmRleC9taXJyb3IiCiAgICAgIC0gImh0dHBzOi8vbWlycm9yLmdjci5pbyI= | base64 -d > /etc/rancher/k3s/registries.yaml
+
+curl https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-4 | bash
+wget https://github.com/derailed/k9s/releases/latest/download/k9s_linux_amd64.deb && apt install ./k9s_linux_amd64.deb && rm k9s_linux_amd64.deb
+mkdir /root/.kube
+cp /etc/rancher/k3s/k3s.yaml /root/.kube/config
+systemctl restart k3s
+```
+
