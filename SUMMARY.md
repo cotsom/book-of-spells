@@ -44,6 +44,7 @@
     * [WINRM](pentest/infra/ad/winrm.md)
     * [SMB](pentest/infra/ad/smb.md)
   * [LINUX](pentest/infra/linux/README.md)
+    * [Postgres](pentest/infra/linux/postgres.md)
     * [Saltstack](pentest/infra/linux/saltstack.md)
     * [Consul](pentest/infra/linux/consul.md)
     * [SeaweedFS](pentest/infra/linux/seaweedfs.md)
