@@ -31,6 +31,7 @@
       * [KERBEROASTING](pentest/infra/ad/kerberos/kerberoasting.md)
       * [AS-REQ Roasting](pentest/infra/ad/kerberos/as-req-roasting.md)
     * [CREDENTIALS](pentest/infra/ad/credentials/README.md)
+      * [NTDS](pentest/infra/ad/credentials/ntds.md)
       * [SAM & LSA secrets](pentest/infra/ad/credentials/sam-and-lsa-secrets.md)
       * [DPAPI](pentest/infra/ad/credentials/dpapi.md)
       * [LSASS](pentest/infra/ad/credentials/lsass.md)
