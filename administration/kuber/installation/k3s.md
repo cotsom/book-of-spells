@@ -57,7 +57,7 @@ echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8uPBswMKapwEO4LloeDj6egpQ2HXXnUsmiT
 
 curl https://get.docker.com | sh
 curl -sfL https://get.k3s.io | INSTALL_K3S_EXEC="server \
-  --disable=traefik \ sh -
+  --disable=traefik" | sh -
 
 echo bWlycm9yczoKICBkb2NrZXIuaW86CiAgICBlbmRwb2ludDoKICAgICAgLSAiaHR0cHM6Ly9jci55YW5kZXgvbWlycm9yIgogICAgICAtICJodHRwczovL21pcnJvci5nY3IuaW8i | base64 -d > /etc/rancher/k3s/registries.yaml
 
