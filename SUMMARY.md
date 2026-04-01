@@ -165,6 +165,7 @@
 * [Certs](administration/certs/README.md)
   * [Issue a certificate with certbot](administration/certs/issue-a-certificate-with-certbot.md)
 * [Networks](administration/networks/README.md)
+  * [Iptables](administration/networks/iptables.md)
   * [Switch setup](administration/networks/switch-setup.md)
 * [MONITORING](administration/monitoring/README.md)
   * [PromQL](administration/monitoring/promql.md)
