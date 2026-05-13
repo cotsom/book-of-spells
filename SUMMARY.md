@@ -45,6 +45,8 @@
     * [WINRM](pentest/infra/ad/winrm.md)
     * [SMB](pentest/infra/ad/smb.md)
   * [LINUX](pentest/infra/linux/README.md)
+    * [PVE proxmox exporter](pentest/infra/linux/pve-proxmox-exporter.md)
+    * [Proxmox](pentest/infra/linux/proxmox.md)
     * [Postgres](pentest/infra/linux/postgres.md)
     * [Saltstack](pentest/infra/linux/saltstack.md)
     * [Consul](pentest/infra/linux/consul.md)
