@@ -89,6 +89,7 @@
     * [Terraform](pentest/infra/cloud/terraform.md)
   * [1С Enterpise](pentest/infra/1s-enterpise.md)
   * [FreeIpa](pentest/infra/freeipa/README.md)
+    * [Post Explotation](pentest/infra/freeipa/post-explotation.md)
     * [IPASync](pentest/infra/freeipa/ipasync.md)
     * [Kerberoasting](pentest/infra/freeipa/kerberoasting.md)
 * [PERIMETER](pentest/perimeter/README.md)
