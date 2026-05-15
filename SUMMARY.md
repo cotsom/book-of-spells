@@ -45,6 +45,8 @@
     * [WINRM](pentest/infra/ad/winrm.md)
     * [SMB](pentest/infra/ad/smb.md)
   * [LINUX](pentest/infra/linux/README.md)
+    * [Teleport](pentest/infra/linux/teleport/README.md)
+      * [Post explotation](pentest/infra/linux/teleport/post-explotation.md)
     * [Proxmox](pentest/infra/linux/proxmox.md)
     * [Postgres](pentest/infra/linux/postgres.md)
     * [Saltstack](pentest/infra/linux/saltstack.md)
