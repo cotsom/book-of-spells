@@ -23,5 +23,10 @@ helm install kyverno-policies kyverno/kyverno-policies --namespace kyverno
 helm upgrade kyverno-policies kyverno/kyverno-policies \
   --namespace kyverno \
   --set validationFailureAction=Enforce
+  
+# Set Failure Policy to Ignore
+helm upgrade kyverno kyverno/kyverno -n kyverno \
+  --reuse-values \
+  --set features.forceFailurePolicyIgnore.enabled=true
 ```
 
