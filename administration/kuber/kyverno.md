@@ -16,7 +16,12 @@ helm install kyverno kyverno/kyverno \
 # Check
 kubectl get pods -n kyverno -w
 
-# Install official politics
+# Install official politics IN AUDIT MODE
 helm install kyverno-policies kyverno/kyverno-policies --namespace kyverno
+
+# Set Enforce mode
+helm upgrade kyverno-policies kyverno/kyverno-policies \
+  --namespace kyverno \
+  --set validationFailureAction=Enforce
 ```
 
