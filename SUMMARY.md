@@ -176,6 +176,7 @@
   * [PromQL](administration/monitoring/promql.md)
   * [Grafana-Prometheus](administration/monitoring/grafana-prometheus.md)
 * [KUBER](administration/kuber/README.md)
+  * [Kyverno](administration/kuber/kyverno.md)
   * [Gateway Api example](administration/kuber/gateway-api-example.md)
   * [GitOps](administration/kuber/gitops/README.md)
     * [Flux](administration/kuber/gitops/flux.md)
