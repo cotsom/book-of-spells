@@ -30,3 +30,14 @@ helm upgrade kyverno kyverno/kyverno -n kyverno \
   --set features.forceFailurePolicyIgnore.enabled=true
 ```
 
+
+
+## Tips
+
+```bash
+# Check cluster policies
+kubectl get cpols
+
+# Check Failure Policy
+kubectl get validatingwebhookconfiguration kyverno-resource-validating-webhook-cfg -o jsonpath='{range .webhooks[*]}{.name}{": "}{.failurePolicy}{"\n"}{end}'
+```
