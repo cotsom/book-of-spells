@@ -44,6 +44,8 @@
     * [TRUSTS](pentest/infra/ad/trusts.md)
     * [WINRM](pentest/infra/ad/winrm.md)
     * [SMB](pentest/infra/ad/smb.md)
+    * [BACKUPS](pentest/infra/ad/backups/README.md)
+      * [Veeam](pentest/infra/ad/backups/veeam.md)
   * [LINUX](pentest/infra/linux/README.md)
     * [Teleport](pentest/infra/linux/teleport/README.md)
       * [Post explotation](pentest/infra/linux/teleport/post-explotation.md)
