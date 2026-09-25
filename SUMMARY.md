@@ -47,6 +47,7 @@
     * [BACKUPS](pentest/infra/ad/backups/README.md)
       * [Veeam](pentest/infra/ad/backups/veeam.md)
   * [LINUX](pentest/infra/linux/README.md)
+    * [ESXI](pentest/infra/linux/esxi.md)
     * [Teleport](pentest/infra/linux/teleport/README.md)
       * [Post explotation](pentest/infra/linux/teleport/post-explotation.md)
     * [Proxmox](pentest/infra/linux/proxmox.md)
