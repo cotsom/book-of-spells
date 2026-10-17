@@ -27,6 +27,7 @@
     * [KERBEROS](pentest/infra/ad/kerberos/README.md)
       * [Diamond Ticket](pentest/infra/ad/kerberos/diamond-ticket.md)
       * [Golden Ticket](pentest/infra/ad/kerberos/golden-ticket.md)
+      * [Silver ticket](pentest/infra/ad/kerberos/silver-ticket.md)
       * [AS-REP Roasting](pentest/infra/ad/kerberos/as-rep-roasting.md)
       * [KERBEROASTING](pentest/infra/ad/kerberos/kerberoasting.md)
       * [AS-REQ Roasting](pentest/infra/ad/kerberos/as-req-roasting.md)
